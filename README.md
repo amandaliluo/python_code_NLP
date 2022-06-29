@@ -13,7 +13,7 @@ All notebooks:
 * Have code written in the Python language.
 * Have had empty cells removed.
 
- <p align="center"><img src="images/sample_data.png" width="800" height="350"></p>
+ <p align="center"><img src="images/sample_data.png" width="1000" height="300"></p>
 
 ### What is DAN?
  
