@@ -20,8 +20,7 @@ All notebooks:
 #### Pairwise Model Architecture
 
 #### Ranking Model Architecture
-For the Ranking Model, we used a vanilla NN Feed-Forward Neural Network with one linear layer as our base. The model worked best with an embedding size of 10 and a learning rate of 0.001.
-
+For the Ranking Model, we used a vanilla NN Feed-Forward Neural Network with one linear layer as our base. The model worked best with an embedding size of 10 and a learning rate of 0.001. We also tried adding a dropout layer in our model, however, it actually made the performance worst.
 
 ### Further Steps
 
