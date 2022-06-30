@@ -21,7 +21,7 @@ All notebooks:
 
 A classification problem: For each markdown cell, pair it with the code cell right after it and mark this pair as label equals to 1; random sampling 2 code cells in the same notebook for each markdown, and mark these as 0s; embedding the concatenation of markdown cell and code cell into 100 dimensions using BERT; put the output of embedding into a 2 layer neural network.
 
-![paird_format](/Users/caoyanan/Desktop/USF/Deep Learning/untitled folder/python_code_NLP/images/paird_format.png)
+![paird_format](images/paird_format.png)
 
 #### Ranking Model Architecture
 For the Ranking Model, we used a vanilla NN Feed-Forward Neural Network with one linear layer as our base. The model worked best with an embedding size of 10 and a learning rate of 0.001. We also tried adding a dropout layer in our model, however, it actually made the performance worst.
