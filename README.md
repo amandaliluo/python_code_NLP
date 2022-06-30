@@ -29,7 +29,7 @@ For the Ranking Model, we used a vanilla NN Feed-Forward Neural Network with one
 
 ### Prerequisites
 
-In this project, we need to use Pandas, Numpy, and PyTorch with Python 3.5.0 or greater.
+In this project, we need to use Pandas, Numpy, Spacy, and PyTorch with Python 3.5.0 or greater.
 
 
 ### Installation
